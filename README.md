@@ -10,8 +10,8 @@ I'm a passionate website developer with a love for creating innovative solutions
 - ⚡ Fun fact: I love reading books about leadership and management issues.
 
 ### 🚀 Skills
-- Programming Languages: Python, JavaScript, Java, C++
+- Programming Languages: Java, html,CSS
 - Frameworks:  Django
 - Tools: Git, , VS Code
-- Other: SQL, REST APIs, Agile methodologies
+- Other: SQL, REST APIs, Agile methodologiegy.
 - Leadership: Team leadership, Mentoring
